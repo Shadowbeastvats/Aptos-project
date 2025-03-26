@@ -1,7 +1,3 @@
-Here are separate documents for each section as requested:  
-
----
-
 ### **Title**  
 **Shared NFT Collections for Communities**  
 
